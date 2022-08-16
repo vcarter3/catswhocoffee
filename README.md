@@ -5,7 +5,7 @@
 
 #### 🔔  Features
 -   Responsive design
--   Navigation Tabs
+-   Navigation Tabs (4 Pages)
  
 #### 🛠️  Built with
 - JavaScript
